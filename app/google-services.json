@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459028107199",
+    "firebase_url": "https://smart-parking-ticketing-b78b2.firebaseio.com",
+    "project_id": "smart-parking-ticketing-b78b2",
+    "storage_bucket": "smart-parking-ticketing-b78b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459028107199:android:d885b74e82d1a32b259b0a",
+        "android_client_info": {
+          "package_name": "com.example.smartparkingticketingsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459028107199-f06uvtmcde7vi274haq62vekjgge06k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7TX6a3M_6eGoMrm7crm-_2WN6tYfK84g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459028107199-f06uvtmcde7vi274haq62vekjgge06k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
