@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">smart parking ticketing sol</string>
     <string name="todo">TODO</string>
+    <string name="logout">Log out</string>
+    <string name="generateQR">Generate QR Code</string>
+    <string name="scanQR">Scan QR Code</string>
 </resources>
